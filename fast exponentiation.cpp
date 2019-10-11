@@ -1,5 +1,8 @@
 // code used to calculate power of 2 in log time
 // Code calculates the power of any number in log time.
+
+int mod = 1000000007;
+
 ll powe(ll a,ll b){
 	ll ans=1;
 	while(b){
