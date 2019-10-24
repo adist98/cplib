@@ -1,6 +1,8 @@
 // code used to calculate power of 2 in log time
 // Code calculates the power of any number in log time.
 
+typedef long long int ll;
+
 int mod = 1000000007;
 
 ll powe(ll a,ll b){
