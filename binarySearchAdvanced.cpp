@@ -25,3 +25,6 @@ int main(){
   cout << ans << endl;
   }
 }
+
+
+// A problem which requires this version of binary search is MINEAT on codechef
