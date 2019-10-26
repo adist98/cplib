@@ -1,6 +1,6 @@
 // code used to calculate power of 2 in log time
 // Code calculates the power of any number in log time.
-
+// calculates (a^b)
 typedef long long int ll;
 
 int mod = 1000000007;
